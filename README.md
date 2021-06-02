@@ -13,6 +13,7 @@ A simple alarm app which demonstrates the use of broadcast receiver and services
 
    * Broadcast Reciever and Services
    * Android Notification Manager 
+   * Alarm Manager
    * Shared Prefernces
    * Media Player and Vibrator
    * DAO
