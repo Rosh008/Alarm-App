@@ -9,3 +9,13 @@ A simple alarm app which demonstrates the use of broadcast receiver and services
 
 
 
+### Concepts Covered 
+
+   * Broadcast Reciever and Services
+   * Android Notification Manager 
+   * Shared Prefernces
+   * Media Player and Vibrator
+   * DAO
+   * Pending Intent
+   * Object Animator
+   
