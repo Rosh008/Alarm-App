@@ -1,2 +1,2 @@
 # Alarm-App
-A simple alarm app which demonstarte the use of broacast receiver and services in android. 
+A simple alarm app which demonstrates the use of broacast receiver and services in android. 
