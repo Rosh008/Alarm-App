@@ -3,6 +3,6 @@ A simple alarm app which demonstrates the use of broadcast receiver and services
 
 <br>
 
-<img src = "AlarmClock/Screenshot_20210602_193602.jpg" width="250">   &nbsp;     &nbsp;    <img src = "AlarmClock/Screenshot_20210602_193602.jpg" width="250">
+<img src = "AlarmClock/Screenshot_20210602_193602.jpg" width="250">   &nbsp;     &nbsp;    <img src = "AlarmClock/Screenshot_20210602_193615.jpg" width="250">
 
 <img src = "AlarmClock/Screenshot_20210602_193602.jpg" width="250">   &nbsp;     &nbsp;    <img src = "AlarmClock/Screenshot_20210602_193602.jpg" width="250">
